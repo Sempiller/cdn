@@ -1,0 +1,7 @@
+Moon Update GEN8.13
+Latest improvements and fixes to keep Moon running at peak performance
+
+Power Update: Power updated to 2.5M RPS, 160GBPS
+
+Stay connected with us on https://t.me/moonc2nets Telegram @moonc2nets for future updates.
+Last Updated: Sep 7, 2025
